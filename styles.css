@@ -1,6 +1,7 @@
 body {
     background-image: url('stars.png');
     background-repeat: repeat;
+    image-rendering: pixelated;
     background-size: 16px 16px;
 }
 
